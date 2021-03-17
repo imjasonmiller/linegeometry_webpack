@@ -1,0 +1,25 @@
+{
+  "name": "linegeometry_webpack",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "Jason Miller, <contact@jasonmiller.nl>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "three": "^0.126.1",
+    "three-stdlib": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.10",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.26.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
