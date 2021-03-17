@@ -1,7 +1,8 @@
 To run:
 
-```
-$ npm run build
-```
+*
+  ```
+  $ npm run build
+  ```
 
-Then open `/dist/index.html`
+* Open `/dist/index.html`
